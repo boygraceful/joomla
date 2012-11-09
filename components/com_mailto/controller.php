@@ -17,7 +17,7 @@ class MailtoController extends JControllerLegacy
 	/**
 	 * Show the form so that the user can send the link to someone
 	 *
-	 * @access publicd
+	 * @access public
 	 * @since 1.5
 	 */
 	function mailto()
